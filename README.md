@@ -2,32 +2,35 @@
 
 ## Introduction to Process Analysis
 
-Process analysis is a key phase of the BPM Life Cycle because it helps organisations understand how their processes currently operate and how well they support strategic goals. It involves examining activities, handoffs, business rules, and performance measures to identify inefficiencies, risks, and opportunities for improvement (ABPMP, 2019, p.130). In this portfolio, I explore how process analysis works in practice through structured methods, analytical tools, real examples, and authentic artefacts that demonstrate my learning.
+Process analysis is among the vital aspects of BPM life cycle that enables the organisation to know how well it performs before making any changes to the process. It is related to watching the Hand-offs, Rules and Problems of a process, as well as watching Activities and People in a process. In this portfolio the central concepts of process analysis, methods and tools, example of its use and things I learnt from the artefacts have been developed upon.
 
 <img width="802" height="720" alt="image" src="https://github.com/user-attachments/assets/bbbef3c6-a3cc-4233-98bd-ea55c641e727" />
 
 
 ## Core BPM Concepts Related to Process Analysis
 
-Process analysis is grounded in core BPM principles such as end‑to‑end process thinking, performance‑driven management, and continuous improvement. BPM treats processes as organisational assets that must be measured, monitored, and optimised over time (ABPMP, 2019, p.40). Before any redesign, organisations need a clear understanding of the AS‑IS process, including its inputs, outputs, constraints, and cross‑functional interactions. Analysis also supports strategic alignment by ensuring processes contribute to organisational goals. By examining variation, capacity, and handoffs, organisations gain insight into inefficiencies and value‑adding activities. These principles form the foundation for structured, evidence‑based process analysis.
+An important thing I learned is that if it is a process, think of it as a process and not a single task. Having a complication in one phase can impact several other phases in the process. In BPM processes are seen as a subject to be monitored and improved throughout time (ABPMP, 2019, p. 40). Hence, the AS-IS process needs to be understood prior to making a TO-BE process. Provides evidence of any current input, output, people, systems/handoff and activities. This can be to discover redundancies, dumpster duty and time lagging etc. Process analysis is also useful in determining the link between the process performance and the goals of the enterprise.
+
 
 <img width="600" height="500" alt="image" src="https://github.com/user-attachments/assets/9c6c93da-4858-4723-bd5a-5f92bef56378" />
 
 
 ## Methods and Tools for Process Analysis
 
-A range of methods support effective process analysis. Process mining tools such as Celonis and UiPath analyse system event logs to reveal actual process flows, bottlenecks, and rework loops (Gartner, 2026, p.7). Traditional techniques including interviews, workshops, and direct observation help analysts understand human interactions, cultural influences, and informal work practices (ABPMP, 2019, p.138). Lean tools like value‑stream mapping, the 5 Whys, and fishbone diagrams assist in identifying waste and uncovering root causes (Lean Enterprise Institute, 2025, p.33). Performance measurement techniques such as cycle‑time analysis, cost analysis, and variation analysis provide quantitative insights into efficiency and capacity. Business rules analysis clarifies decision logic and compliance requirements. Together, these tools support structured, evidence‑based analysis rather than assumptions or ad‑hoc judgement, helping organisations understand how work truly happens and where improvements can be made.
+From what I understand, process analysis is basically about looking at how a process works and finding where things are going wrong or taking too long. One method I found useful is process mining. It uses information from business systems to show what people are actually doing during a process. Tools such as Celonis and UiPath can be used for this. They can help find delays, repeated steps and parts of a process where work gets stuck (Gartner, 2026, p. 7). However, I think computer data alone is not always enough to understand the full problem. Talking to the employees who do the work and watching the process can give extra information that may not appear in the system data (ABPMP, 2019, p. 138). Other methods such as value-stream mapping, the 5 Whys and fishbone diagrams can also help identify waste and possible reasons for problems (Lean Enterprise Institute, 2025, p. 33).
+
 
 ## Example of Process Analysis
 
-A practical example of process analysis is reviewing an organisation’s customer onboarding process. The AS‑IS analysis revealed long waiting times caused by manual document checks, inconsistent handoffs between departments, and unclear business rules. Using process mining, analysts identified rework loops where customers repeatedly submitted missing documents. Lean techniques helped uncover waste in redundant approval steps. The TO‑BE recommendations included automated document verification, clearer decision rules, and streamlined handoffs. As a result, onboarding time decreased, customer satisfaction improved, and compliance errors reduced. This example shows how structured analysis uncovers root causes and supports targeted redesign that improves efficiency and customer experience.
+A typical instance is that a customer is taking too long to fill out forms to construct his/her account. The initial implication this might give to the organization could be employees taking more time than usual to use the application. In analysing the process, it may determine that the papers submitted to the customers are sometimes not fully completed. Staff then need to attempt getting in touch, and waiting for further information, and some of the checks are to be carried out by staff. This can impact the number of hand-offs between divisions and ultimately the amount of time delays experienced. The organization, on the other hand, can be able to discuss documents in advance and squelch the potential ambiguity and excess information delivery as countermeasures. These changes will avoid repeat work and/or wait time. To help you choose a solution, it is good to have an understanding of issues beforehand as shown in this example. Consequently wastes time for an organisation to try to change an action that they have been wrong about.
 
 <img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/d6eef6b5-b309-4d27-b3c2-7cc2635e1c8a" />
 
 
 ## Reflective Analysis and Evaluation
 
-Engaging with these artefacts changed how I understand process analysis. I realised it is far more than documenting a workflow it requires critical thinking, questioning assumptions, and using evidence to understand how work truly happens. The artefacts helped me appreciate the importance of data, technology, and structured methods. This learning strengthened my confidence in applying BPM concepts and highlighted the responsibility ICT professionals have in designing human‑centred processes.
+The artworks changed how I think about process analysis. Before, I thought it was just about seeing how work is done and why people do it that way. Now I think we should also ask if there is a better way. Data can help us, but employees can notice things that data cannot. This is why analysis is important before changing a process.
+
 
 ## References
 
