@@ -92,7 +92,7 @@ The Bizagi model helped me connect the individual BPMN symbols with a complete p
 The gateways also made more sense to me after seeing them in the example. A written definition can explain what a gateway does, but seeing one used in a real process makes the reason for the decision clearer.
 
 Before looking at the example, I was thinking about BPMN mostly one symbol at a time. After looking at the full model, I started paying more attention to how the elements connect and how the process flows from one activity to another.
-## Video link: https://www.youtube.com/watch?v=HhK2W5YdXxA
+
 
 ## AI Planning, Research and Idea Development Statement
 
