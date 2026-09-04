@@ -4,6 +4,8 @@
 
 Business Process Model and Notation (BPMN) is used to show how a business process works through a diagram. It includes things such as activities, decisions, events, and the people or departments involved in the work (Object Management Group 2014). From what I have learned, one useful part of process modelling is that it puts the steps and responsibilities into one place. This can make a process easier to understand compared with reading a long written explanation. It can also make problems in a process easier to notice and give an organisation a basis for thinking about possible improvements (ABPMP International 2019). In this e-portfolio, I discuss some BPMN concepts, modelling tools and examples, along with what I learned from each artefact.
 
+- Figure 1: Core BPMN elements — events, activities, gateways and sequence flow, and how a pool with lanes shows responsibility across participants (based on Object Management Group 2014).
+
 - <img width="875" height="408" alt="image" src="https://github.com/user-attachments/assets/b4efadce-ded5-4e76-bbb9-c2bb678be142" />
 
 
@@ -29,6 +31,11 @@ When I first started learning BPMN, I found some of the symbols confusing. There
 The explanation of exclusive and parallel gateways was probably the most useful part for me. I understood the difference better after seeing the different paths in the diagram. Before that, I mostly knew what the definitions meant, but I did not have as clear an idea of how they worked in a process.
 
 I also realised that a BPMN diagram needs to be easy for another person to read. Knowing the correct symbols is important, but that is not the only thing that matters. If the diagram is difficult to follow, it is not very useful even if the symbols are technically correct. This relates to the modelling guidelines discussed by Mendling, Reijers and van der Aalst (2010). After watching the tutorial, I felt more comfortable with the basic BPMN elements and had a better starting point for reading a process model.
+
+- Figure 2: Exclusive (XOR) gateway versus parallel (AND) gateway — an exclusive gateway sends the flow down one path only, while a parallel gateway runs both paths at once.
+
+- <img width="875" height="369" alt="image" src="https://github.com/user-attachments/assets/67f6be47-d025-4d89-bedd-5174230a4f9b" />
+
 
 
 ## Video link: [https://www.youtube.com/watch?v=R1v0uFJwXWc](https://www.youtube.com/watch?v=kE5TIFJ5XfA)
@@ -62,6 +69,10 @@ A TO-BE model could show a different way of completing the process. Some decisio
 
 However, the TO-BE model would not prove that the new process will actually be better. Once the new process is put into use, the results would need to be measured. This would show whether the changes actually reduced delays, improved the process or achieved the expected benefits.
 
+- Figure 3: Simplified AS-IS versus TO-BE comparison for an invoice approval process, showing fewer handoffs and an automated check in the TO-BE version (own diagram, illustrating the concepts discussed above).
+
+- <img width="969" height="473" alt="image" src="https://github.com/user-attachments/assets/159b1e9c-3d58-4576-8a32-1ec659c679c9" />
+
 
 ## BPMN Tools (Gartner Report)
 
@@ -69,6 +80,10 @@ However, the TO-BE model would not prove that the new process will actually be b
 Gartner's Market Guide for Enterprise Business Process Analysis Tools looks at software used for analysing and modelling business processes (Gartner 2025). I found this report useful because it gave me a broader idea of what these tools can be used for. Before reading it, I mainly thought of modelling software as something used to create process diagrams.
 
 The report shows that some tools offer features beyond basic modelling. Depending on the product, these can include process mining, decision modelling, simulation and value-stream mapping. These features can be useful when an organisation wants to understand and analyse a process rather than only document it. I also learned that there is not necessarily one tool that is best for every organisation. The choice depends on what the organisation needs the software to do.
+
+- Figure 4: Overview of capabilities offered by enterprise process analysis tools beyond basic BPMN modelling (based on the feature categories discussed in Gartner 2025).
+
+- <img width="969" height="409" alt="image" src="https://github.com/user-attachments/assets/8c3a8e9d-4db0-4348-9ac7-1e793c5c764d" />
 
 
 ## Reflection
@@ -86,6 +101,9 @@ The Bizagi example demonstrates a Purchase Request process using BPMN. It uses l
 
 The example also showed how the process can follow different paths depending on a decision. This was easier for me to understand when I could see the complete diagram. Looking at individual BPMN symbols gives you their definitions, but seeing them together makes their purpose easier to understand.
 
+- Figure 5: Simplified recreation of a Purchase Request process, showing lanes for Employee, Manager and Purchasing and a gateway for the approve/reject decision (own diagram, based on the structure described in Bizagi 2023).
+
+- <img width="969" height="473" alt="image" src="https://github.com/user-attachments/assets/e71a90c4-d7b4-4c51-ab21-463cf08cb51b" />
 
 ## Reflection
 The Bizagi model helped me connect the individual BPMN symbols with a complete process. The lanes were especially useful because they showed who was responsible for each activity and where the work moved between participants.
