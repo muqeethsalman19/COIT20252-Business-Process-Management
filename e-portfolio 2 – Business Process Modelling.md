@@ -4,6 +4,7 @@
 
 Business Process Model and Notation (BPMN) is used to show how a business process works through a diagram. It includes things such as activities, decisions, events, and the people or departments involved in the work (Object Management Group 2014). From what I have learned, one useful part of process modelling is that it puts the steps and responsibilities into one place. This can make a process easier to understand compared with reading a long written explanation. It can also make problems in a process easier to notice and give an organisation a basis for thinking about possible improvements (ABPMP International 2019). In this e-portfolio, I discuss some BPMN concepts, modelling tools and examples, along with what I learned from each artefact.
 
+- <img width="875" height="408" alt="image" src="https://github.com/user-attachments/assets/b4efadce-ded5-4e76-bbb9-c2bb678be142" />
 
 
 ## Core BPM Concepts Related to Business Process Modelling
