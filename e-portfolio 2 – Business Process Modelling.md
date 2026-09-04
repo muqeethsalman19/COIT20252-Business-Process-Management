@@ -12,6 +12,7 @@ There are several concepts that are related to business process modelling. These
 I learned that modelling is not just about writing down the steps of a process. When the steps are shown in a diagram, delays, repeated work and unnecessary handoffs can sometimes be easier to see. These problems may be harder to notice when the process is only explained in a meeting or written as instructions. A visual model can also give different departments something they can look at together when discussing possible changes (ABPMP International 2019).
 
 
+
 ## Artefact: BPMN Basics (YouTube Video)
 
 ## Summary
