@@ -4,6 +4,9 @@
 
 Business Process Modelling (BPMN) describes the flow of Work tasks, Decisions and Stakeholders (ABPMP International 2019). It can be used to describe processes and knowledge of process complexity can enhance organisation’s working processes. With BPMN, analysis and redesign (OMG 2025) can be done through processes and it is possible to interpret and evaluate the BPMN (OMG 2025). This e-portfolio explores how concepts, models and examples contribute to understanding the role of modelling in organisational improvement whilst BPMN provides an organisational level of clarity, efficiency and informed decisions.
 
+- <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/8c16716f-58ae-4794-b474-afcc9224be43" />
+
+
 ## Core BPM Concepts Related to Business Process Modelling
 
 In order to have access and control of components, seven concepts in business process modelling have been applied: end-to-end visibility, standardised notation, process transparency, AS IS and TO BE Modelling, Process Alignment with Organisational Strategy, Identification of Inefficiencies and Bottlenecks, Cross Functional Interaction and Collaboration (Galea 2026). Because the BPMN is an OMG standard it is a set of rules to ensure that it is possible for different analysts, managers and technical staff members to understand a process in the same way. For any modelling of a TO‑BE process, it is important that organisations have the basics of the AS‑IS process in their grasp, such as: events, activities, gateways, handoffs etc. Modelling has another strategic function: how the processes relate to the organisational goals (ABPMP International 2019). By collaborating with two other organisations - act of visualisation, reach of their decision points and the cross functional interaction, BPMN helps the companies to identify their efficiencies and shoreline improvements.
