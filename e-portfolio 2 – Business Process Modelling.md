@@ -4,8 +4,6 @@
 
 Business Process Model and Notation (BPMN) is used to show how a business process works through a diagram. It includes things such as activities, decisions, events, and the people or departments involved in the work (Object Management Group 2014). From what I have learned, one useful part of process modelling is that it puts the steps and responsibilities into one place. This can make a process easier to understand compared with reading a long written explanation. It can also make problems in a process easier to notice and give an organisation a basis for thinking about possible improvements (ABPMP International 2019). In this e-portfolio, I discuss some BPMN concepts, modelling tools and examples, along with what I learned from each artefact.
 
-- <img width="706" height="913" alt="image" src="https://github.com/user-attachments/assets/d6487683-78ee-402d-8101-82f3577a6af0" />
-
 
 
 ## Core BPM Concepts Related to Business Process Modelling
@@ -30,8 +28,6 @@ When I first started learning BPMN, I found some of the symbols confusing. There
 The explanation of exclusive and parallel gateways was probably the most useful part for me. I understood the difference better after seeing the different paths in the diagram. Before that, I mostly knew what the definitions meant, but I did not have as clear an idea of how they worked in a process.
 
 I also realised that a BPMN diagram needs to be easy for another person to read. Knowing the correct symbols is important, but that is not the only thing that matters. If the diagram is difficult to follow, it is not very useful even if the symbols are technically correct. This relates to the modelling guidelines discussed by Mendling, Reijers and van der Aalst (2010). After watching the tutorial, I felt more comfortable with the basic BPMN elements and had a better starting point for reading a process model.
-
-- <img width="706" height="913" alt="image" src="https://github.com/user-attachments/assets/77456230-ba03-4009-918e-8a9e064ef4d8" />
 
 
 ## Video link: [https://www.youtube.com/watch?v=R1v0uFJwXWc](https://www.youtube.com/watch?v=kE5TIFJ5XfA)
@@ -65,9 +61,6 @@ A TO-BE model could show a different way of completing the process. Some decisio
 
 However, the TO-BE model would not prove that the new process will actually be better. Once the new process is put into use, the results would need to be measured. This would show whether the changes actually reduced delays, improved the process or achieved the expected benefits.
 
--  <img width="706" height="913" alt="image" src="https://github.com/user-attachments/assets/f972e0e0-ed25-4ae9-9281-52e6b17f2042" />
-
-
 
 ## BPMN Tools (Gartner Report)
 
@@ -75,8 +68,6 @@ However, the TO-BE model would not prove that the new process will actually be b
 Gartner's Market Guide for Enterprise Business Process Analysis Tools looks at software used for analysing and modelling business processes (Gartner 2025). I found this report useful because it gave me a broader idea of what these tools can be used for. Before reading it, I mainly thought of modelling software as something used to create process diagrams.
 
 The report shows that some tools offer features beyond basic modelling. Depending on the product, these can include process mining, decision modelling, simulation and value-stream mapping. These features can be useful when an organisation wants to understand and analyse a process rather than only document it. I also learned that there is not necessarily one tool that is best for every organisation. The choice depends on what the organisation needs the software to do.
-
-- <img width="706" height="913" alt="image" src="https://github.com/user-attachments/assets/30e6f9b8-4026-4aa6-9f33-a6ee4f185ca6" />
 
 
 ## Reflection
@@ -93,8 +84,6 @@ The report also made me think differently about choosing software. I would not s
 The Bizagi example demonstrates a Purchase Request process using BPMN. It uses lanes to represent the different participants, while activities and gateways show the steps and decisions in the process (Bizagi 2023). I found this example useful because it showed how responsibility can be included in a BPMN model.
 
 The example also showed how the process can follow different paths depending on a decision. This was easier for me to understand when I could see the complete diagram. Looking at individual BPMN symbols gives you their definitions, but seeing them together makes their purpose easier to understand.
-
-- <img width="706" height="913" alt="image" src="https://github.com/user-attachments/assets/f801367c-c4d9-4b52-b5ad-3dda07ba55db" />
 
 
 ## Reflection
