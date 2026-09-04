@@ -28,7 +28,7 @@ The explanation of exclusive and parallel gateways was probably the most useful 
 
 I also realised that a BPMN diagram needs to be easy for another person to read. Knowing the correct symbols is important, but that is not the only thing that matters. If the diagram is difficult to follow, it is not very useful even if the symbols are technically correct. This relates to the modelling guidelines discussed by Mendling, Reijers and van der Aalst (2010). After watching the tutorial, I felt more comfortable with the basic BPMN elements and had a better starting point for reading a process model.
 
-## Video link: https://www.youtube.com/watch?v=R1v0uFJwXWc
+## Video link: [https://www.youtube.com/watch?v=R1v0uFJwXWc](https://www.youtube.com/watch?v=kE5TIFJ5XfA)
 
 ## Methods and Tools for Business Process Modelling
 
